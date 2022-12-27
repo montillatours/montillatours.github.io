@@ -59,7 +59,7 @@ button:hover {
   background-color: rgba(0, 136, 169, 1);
 }
 nav ul ul{
-  psition: absolute;
+  position: absolute;
   top: 60px;
   display: none;
 }

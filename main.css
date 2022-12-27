@@ -63,6 +63,6 @@ nav ul ul{
   top: 60px;
   display: none;
 }
-.nav__links li:hover > ul{
+.nav__links li a:hover > ul{
   display: block;
 }  

@@ -1,11 +1,11 @@
 * {
   margin: 0;
-  pading: 0;
+  padding: 0;
   background-color: #24252a;
 }
 
 img {
-max-width: 14%;
+  max-width: 14%;
 }
 
 li,
@@ -58,11 +58,13 @@ button {
 button:hover {
   background-color: rgba(0, 136, 169, 1);
 }
-nav ul ul{
+
+nav ul ul {
   position: absolute;
   top: 60px;
   display: none;
 }
-.nav__links li a:hover > ul{
+
+.nav__links li a:hover>ul {
   display: block;
-}  
+}

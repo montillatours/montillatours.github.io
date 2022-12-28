@@ -16,9 +16,7 @@ body{
 nav {
     background-color: #131c39;
     height: 70px;
-    padding-top: 20px;
-    padding-left: 55px;
-    padding-right: 55px;
+    padding: 20px 55px 10px;
 }
 
 nav ul{

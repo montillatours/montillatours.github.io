@@ -65,7 +65,7 @@ nav ul ul {
   display: none;
 }
 
-.nav__links li a:hover>ul {
+.nav__links li:hover > ul {
   display: block;
 }
 
